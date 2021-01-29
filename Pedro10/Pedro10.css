@@ -1,0 +1,37 @@
+/*
+    Creado por Pedro Benítez Fuentes
+*/
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+body{
+    background-color: darkgray;
+}
+h1{
+    float: right;
+    padding: 15px;
+    color: midnightblue;
+}
+.presentacion{
+    background-color: darkgoldenrod;
+    width: 80%;
+    color: white;
+}
+.primera{
+    width: 20%;
+    float: left;
+}
+.presentados{
+    width: 100%;
+    background-color: darkgoldenrod;
+    color: white;
+    margin-bottom: 20px;
+}
+.tercera{
+    float: right;
+    
+}
+footer{
+    margin-top: 120px;
+}
