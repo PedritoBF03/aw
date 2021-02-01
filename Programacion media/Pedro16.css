@@ -1,0 +1,50 @@
+/*
+    Pedro Benítez Fuentes
+*/
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+body{
+    background-color: rgba(87, 205, 112, 0.91) 
+}
+header{
+    height: 50px;
+    background-color: white;
+}
+img{
+    width: 10%;
+    border-radius: 100px;
+}
+
+/*body{
+    background-image: url(Imagenes/fondo.png);
+    
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-position: cover;
+    background-attachment: fixed;
+}*/
+header{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border: 1px solid;
+    padding: 5px;
+    height: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+a{
+    margin: auto;
+    text-align: center;
+    border: solid;
+    border-color: lime;
+    margin: auto;
+    display: block;
+    width: 11%;
+    margin-bottom: 15px;
+    padding: 5px;
+    background-color: skyblue;
+    border-color: black;
+}

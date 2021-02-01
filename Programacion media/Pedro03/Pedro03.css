@@ -1,0 +1,56 @@
+/*
+    Este es el css de mi plantilla
+*/
+
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: orange;
+}
+header, footer{
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center
+}
+img{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.desc{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 210px;
+    text-align: justify;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+}
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+aside{
+    background-color: white;
+    flex: 1 0 25%;
+    align-content: center;
+}
+h1{
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+.parrafo{
+    margin-left: 25px;
+    margin-right: 25px;
+    
+}
